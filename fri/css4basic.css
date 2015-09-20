@@ -1,0 +1,39 @@
+body{
+    background-color: red;
+}
+
+li:first-child {
+    background-color: yellow;
+    color:purple;
+    list-style-type: black;
+}
+
+/*li:nth-child(2){
+    background-color: salmon;
+}*/
+
+body div nav ul li:first-child {
+    background-color: pink;
+}
+
+div nav li:nth-child(2){
+    background-color:blue;
+}
+
+/*div > ul > li {
+    background-color: green;
+}*/
+
+div > ul >li:last-child {
+    background-color: brown;
+}
+
+body nav:nth-child(2) li:first-child {
+    background-color: purple;
+    color: grey;
+}
+
+
+/*li:first-child {
+    background-color: yellow;
+}*/

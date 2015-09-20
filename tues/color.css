@@ -1,0 +1,34 @@
+/*body {
+    background-color: #FF0000;
+}*/
+
+body{
+
+}
+
+div {
+    /*color: #ff0000;*/
+    /*0 = black 255 = white*/
+    color: rgb(128,0,0); /* grey*/
+    color: rgb(128,128, 128); /* grey*/
+    background-color: rgb(255, 0);
+    border:solid black 5px;
+    font-family: helvetica, Arial, sans-serif;
+    font-size: 1;
+    font-weight: 900;
+    border: solid pink 5px;
+
+}
+
+h2 {
+    background-color: rgba(128, 128, 128, .3);
+    font-family: arial;
+    font-weight: 100;
+}
+
+.stuff {
+    background-image: url('duck.jpeg');
+    background-repeat: no-repeat;
+    width:300px;
+    background-position: -50px,50%;
+}

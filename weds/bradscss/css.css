@@ -1,0 +1,55 @@
+
+body {
+    /*color: orange;*/
+    color: blue;
+    font-size: 12pt;
+    /*  points are */
+}
+
+
+.one {
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+    color: purple;
+    border-radius: 10px;
+}
+
+.two {
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    border-radius: inherit;
+}
+
+.kyle {
+    background-color: yellow;
+    /*s*/
+
+}
+
+article p {
+    background-color: grey;
+    font-size: 1em;
+    padding: 1em; 
+}
+article h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+/* vh is veiwport height 
+
+
+
+*/
+
+
+@media screen and (min-width: 680px){
+    body {
+        font-size: 20pt;
+    }
+}

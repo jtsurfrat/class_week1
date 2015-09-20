@@ -1,0 +1,36 @@
+body {
+    background-color: red;
+}
+
+
+main {
+    background-color: yellow;
+    border:black dashed 5px;
+    border: solid black 1px;
+}
+
+div {
+    border: dashed green 1px;
+}
+
+/*span {
+    background-color: pink;
+
+    display: inline-block;
+    margin:10px;
+    padding: 5px;
+    border:solid 2px rgba(2, 255, 0, .2);
+}*/
+
+/*.a {
+    background-color: pink;
+
+
+}
+
+.b {
+   background-color: pink;
+    /*display: block; */
+    display: inline-block;
+    padding: 5px;
+}*/

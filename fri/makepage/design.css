@@ -1,0 +1,83 @@
+.main-container {
+    background-color:red;
+}
+
+.logo {
+    background-color: #99FF66;
+    color: pink;
+}
+
+nav:first-child {
+    background-color: rgb(255, 0, 255);
+}
+
+nav:first-child > a {
+    background-color: #6699FF;
+}
+
+nav:nth-child(2){
+    background-color: #6600CC;
+}
+
+nav:nth-child(2){
+    background-color: #003399;
+}
+
+
+header {
+    background-color: grey;
+}
+
+aside {
+    background-color: #00FFCC;
+}
+
+nav a {
+    background-color: #FF0066;
+}
+
+main {
+    background-color: orange;
+}
+
+main > article:nth-child(2) {
+    background-color: #66CCFF;
+}
+
+main > article:nth-child(2) > h1 {
+    background-color: #000099;
+    color:#E6E6E6;
+    border: 20px red solid;
+}
+
+main > article:nth-child(2) > p {
+    background-color: yellow;
+}
+
+main > article:nth-child(2) > a {
+    background-color: #CC3399;
+}
+
+main > article:nth-child(3) {
+    background-color:#009900;
+}
+
+main > article:nth-child(3) > h1 {
+    background-color:#6666FF;
+}
+
+main > article:nth-child(3) > p {
+    background-color: #FF00FF;
+}
+
+main > article:nth-child(3) > a {
+    background-color: brown;
+}
+
+footer {
+    background-color: #669900;
+}
+
+footer > p {
+    background-color: #000066;
+}

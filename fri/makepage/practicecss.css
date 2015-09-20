@@ -1,0 +1,26 @@
+.one {
+    background-image: url('wwave.jpg');
+    background-attachment: fixed;
+    width: 100%;
+    background-size: cover;
+    display: block;
+    position: absolute;
+    height: 500px;
+    top: 0px;
+    left: 0px;
+    
+}
+
+.two {
+    background-color: red;
+    display: block;
+    height: 600px;
+    background-attachment:scroll; 
+}
+
+.three {
+    background-color: blue;
+    display: inline-block;
+}
+
+.
